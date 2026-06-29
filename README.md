@@ -67,6 +67,7 @@ https://tsfunny19.github.io/scorpiodev/
 
 🐙 **GitHub**
 https://github.com/tsfunny19
+Aby zakupic skontaktuj sie ze mna!!
 
 ---
 
