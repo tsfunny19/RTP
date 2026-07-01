@@ -21,12 +21,6 @@ RTP Plugin pozwala graczom na szybkie i bezpieczne teleportowanie się w losowe 
 
 ---
 
-# 📸 Screeny
-
-Tutaj dodaj zrzuty ekranu prezentujące działanie pluginu.
-
----
-
 # 📜 Komendy
 
 | Komenda       | Opis                       |
@@ -71,6 +65,6 @@ Zapraszam do kontaktu przez Discord lub e-mail.
 
 ## 👨‍💻 Autor
 
-**ScorpioDev**
+**ScorpioDev[tsfunny]**
 
 Java Developer • Minecraft Plugin Developer • Technik Serwerowy
