@@ -54,20 +54,18 @@ Tutaj dodaj zrzuty ekranu prezentujące działanie pluginu.
 
 ---
 
-# 📫 Kontakt
+## 📫 Kontakt
 
-📧 **E-mail**
-[scorpiodev19@gmail.com](mailto:scorpiodev19@gmail.com)
+📧 **E-mail:** scorpiodev19@gmail.com  
+💬 **Discord:** scorpiodev  
+🌐 **Portfolio:** https://tsfunny19.github.io/scorpiodev/  
+🐙 **GitHub:** https://github.com/tsfunny19  
+⬇️ **Pobierz OgloszeniaSCO:** https://modrinth.com/plugin/RTPSCO 
 
-💬 **Discord**
-scorpiodev
+⭐ Jeśli plugin Ci się spodobał, zostaw ocenę na Modrinth!
 
-🌐 **Portfolio**
-https://tsfunny19.github.io/scorpiodev/
-
-🐙 **GitHub**
-https://github.com/tsfunny19
-Aby zakupic skontaktuj sie ze mna!!
+💼 **Potrzebujesz dedykowanego pluginu lub wersji Premium?**
+Zapraszam do kontaktu przez Discord lub e-mail.
 
 ---
 
